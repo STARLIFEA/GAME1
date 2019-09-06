@@ -1,6 +1,6 @@
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/STARLIFEA/yeni.git
+git remote add origin https://github.com/STARLIFEA/olbance.git
 git push -u origin master
 
 
